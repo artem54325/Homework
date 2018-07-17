@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Домашняя работа</string>
+    <string name="title_activity_dat_statistic">Мат статистика</string>
+    <string name="title_activity_mine_surveying">Маркшейдерия</string>
+</resources>

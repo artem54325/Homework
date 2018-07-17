@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/summ"
+        android:icon="@drawable/icon_sum"
+        android:title="@android:string/search_go"
+        yourapp:showAsAction="always|collapseActionView" />
+    <item
+        android:id="@+id/save"
+        android:title="@android:string/search_go"
+        android:icon="@drawable/icons_save"
+        yourapp:showAsAction="always|collapseActionView" />
+    <item
+        android:id="@+id/add"
+        android:title="@android:string/search_go"
+        android:icon="@drawable/if_add_134224"
+        yourapp:showAsAction="always|collapseActionView" />
+</menu>
